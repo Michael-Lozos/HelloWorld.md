@@ -1,2 +1,0 @@
-# HelloWorld.md
-coursera project
